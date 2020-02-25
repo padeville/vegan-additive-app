@@ -1,0 +1,1770 @@
+[
+    [
+      "E100",
+      "Curcumin",
+      "Colour",
+      "Orange/yellow colouring",
+      "Yes"
+    ],
+    [
+      "E101",
+      "Riboflavin (Vitamin B2)",
+      "Colour",
+      "Orange/yellow colouring",
+      "Yes"
+    ],
+    [
+      "E101a",
+      "Riboflavin-5'-Phosphate",
+      "Colour",
+      "Orange/yellow colouring",
+      "Yes"
+    ],
+    [
+      "E102",
+      "Tartrazine",
+      "Colour",
+      "Yellow colouring",
+      "Yes"
+    ],
+    [
+      "E103",
+      "Alkanet/Alkannin",
+      "Colour",
+      "Orange/yellow colouring",
+      "Yes"
+    ],
+    [
+      "E104",
+      "Quinoline Yellow",
+      "Colour",
+      "Orange/yellow colouring",
+      "Yes"
+    ],
+    [
+      "E105",
+      "Fast Yellow AB, Fast Yellow",
+      "Colour",
+      "Toxic.  Banned.",
+      "Yes"
+    ],
+    [
+      "E106",
+      "Riboflavin-5'-Phosphate",
+      "Colour",
+      "Same as E101a",
+      "Yes"
+    ],
+    [
+      "E107",
+      "Yellow 2G",
+      "Colour",
+      "Toxic.  Banned.",
+      "Yes"
+    ],
+    [
+      "E110",
+      "Sunset Yellow FCF/Orange Yellow S",
+      "Colour",
+      "Orange/yellow colouring",
+      "Yes"
+    ],
+    [
+      "E122",
+      "Azorubine/Carmoisine",
+      "Colour",
+      "Red colouring; Derived from a plant",
+      "Yes"
+    ],
+    [
+      "E123",
+      "Amaranth",
+      "Colour",
+      "Red colouring; Derived from a plant",
+      "Yes"
+    ],
+    [
+      "E127",
+      "Erythrosine",
+      "Colour",
+      "Red colouring",
+      "Yes"
+    ],
+    [
+      "E128",
+      "Red 2G",
+      "Colour",
+      "Red colouring found in meat products; Synthetic coal tar",
+      "Yes"
+    ],
+    [
+      "E129",
+      "Allura Red AC",
+      "Colour",
+      "Orange/red colouring; Synthetic",
+      "Yes"
+    ],
+    [
+      "E131",
+      "Patent Blue V",
+      "Colour",
+      "Blue colouring; Synthetic coal tar",
+      "Yes"
+    ],
+    [
+      "E132",
+      "Indigo Carmine/Idigotine",
+      "Colour",
+      "Blue colouring; Synthetic coal tar",
+      "Yes"
+    ],
+    [
+      "E133",
+      "Brilliant Blue FCF",
+      "Colour",
+      "Blue colouring; Synthetic coal tar",
+      "Yes"
+    ],
+    [
+      "E140",
+      "Chlorophyll/Chlorophyllins",
+      "Colour",
+      "Green colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "Category:ColourNotes:Green colouring; Derived from plant"
+    ],
+    [
+      "1400",
+      "Dextrins",
+      "Thickener",
+      "From dextrose",
+      "Yes"
+    ],
+    [
+      "Category:ThickenerNotes:From dextrose"
+    ],
+    [
+      "1401",
+      "Acid treated starch",
+      "Thickener",
+      "Treated starch with acids",
+      "Yes"
+    ],
+    [
+      "1402",
+      "Alkaline treated starch",
+      "Thickener",
+      "Treated starch with alkalins (sodium or potasium hydroxide)",
+      "Yes"
+    ],
+    [
+      "1403",
+      "Bleached starch",
+      "Thickener",
+      "Treated starch with bleaching agents",
+      "Yes"
+    ],
+    [
+      "E1404",
+      "Oxidised starch",
+      "Thickener",
+      "Treated starch with hypochlorite",
+      "Yes"
+    ],
+    [
+      "E141",
+      "Copper Complex of Chlorophyll",
+      "Colour",
+      "Green colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E1410",
+      "Mono-starch phosphate",
+      "Thickener",
+      "Treated starch with phosphoric acid",
+      "Yes"
+    ],
+    [
+      "1411",
+      "Di-starch glycerol",
+      "Thickener",
+      "Treated starch with glycerol",
+      "Yes"
+    ],
+    [
+      "E1412i",
+      "Di-starch phosphates",
+      "Thickener",
+      "Treated starch with phosphorylating agent trimetaphosphate",
+      "Yes"
+    ],
+    [
+      "E1412ii",
+      "Di-starch phosphates",
+      "Thickener",
+      "Treated starch with phosphorylating agent phosphoroxychloride",
+      "Yes"
+    ],
+    [
+      "E1413",
+      "Phosphatylated di-starch phosphate",
+      "Thickener",
+      "Treated starch with phosphorylating agent and phosphoric acid",
+      "Yes"
+    ],
+    [
+      "E1414",
+      "Acetylated di-starch phosphate",
+      "Thickener",
+      "Treated starch with phosphorylating agent and acetic acid",
+      "Yes"
+    ],
+    [
+      "E142",
+      "Green S/Acid Brilliant Green BS",
+      "Colour",
+      "Green colouring; Synthetic coal tar",
+      "Yes"
+    ],
+    [
+      "E1420",
+      "Starch acetate",
+      "Thickener",
+      "Treated starch with acetic acid",
+      "Yes"
+    ],
+    [
+      "1421",
+      "Starch acetate",
+      "Thickener",
+      "Treated starch with vinylacetate",
+      "Yes"
+    ],
+    [
+      "E1422",
+      "Acetylated di-starch adipate",
+      "Thickener",
+      "Treated starch with acetic and adipinic acid",
+      "Yes"
+    ],
+    [
+      "1423",
+      "Acetylated di-starch glycerol",
+      "Thickener",
+      "Treated starch with acetic acid and glycerol",
+      "Yes"
+    ],
+    [
+      "E1440",
+      "Hydroxypropylstarch",
+      "Thickener",
+      "Treated starch with propyleneoxide",
+      "Yes"
+    ],
+    [
+      "1441",
+      "Hydroxypropyl-di-starch glycerol",
+      "Thickener",
+      "Treated starch with propyleneoxide, epichlorhydrine and glycerol",
+      "Yes"
+    ],
+    [
+      "E1442",
+      "Hydroxypropyl-di-starch phosphate",
+      "Thickener",
+      "Treated starch with propyleneoxide and phosphoric acid",
+      "Yes"
+    ],
+    [
+      "E1450",
+      "Starch sodium octenyl succinate",
+      "Thickener",
+      "Treated starch with octenylsuccinate",
+      "Yes"
+    ],
+    [
+      "1501i",
+      "Benzylated hydrocarbons - Benzyl alcohol",
+      "Flavour",
+      "Naturally occurs in plants but commercially made by chemicals",
+      "Yes"
+    ],
+    [
+      "1501ii",
+      "Benzylated hydrocarbons - Benzyl acetate",
+      "Flavour",
+      "Naturally occurs in plants but commercially made by chemicals",
+      "Yes"
+    ],
+    [
+      "1501iii",
+      "Benzylated hydrocarbons - Benzyl benzoate",
+      "Flavour",
+      "Naturally occurs in plants but commercially made by chemicals",
+      "Yes"
+    ],
+    [
+      "1502",
+      "Butane-1,3-diol",
+      "Flavour",
+      "Chemically made",
+      "Yes"
+    ],
+    [
+      "1503",
+      "Castor oil",
+      "Flavour",
+      "Naturally from seed",
+      "Yes"
+    ],
+    [
+      "1504",
+      "Ethyl acetate",
+      "Flavour",
+      "Naturally from fruit but commercially from chemicals",
+      "Yes"
+    ],
+    [
+      "E1505",
+      "Triethyl citrate",
+      "Flavour",
+      "Produced from citric acid",
+      "Yes"
+    ],
+    [
+      "E150a",
+      "Plain Caramel",
+      "Colour",
+      "Brown and black colouring; Derived from sugar beet or cane",
+      "Yes"
+    ],
+    [
+      "E150b",
+      "Caustic Sulphite Caramel",
+      "Colour",
+      "Brown and black colouring; Derived from sugar beet or cane",
+      "Yes"
+    ],
+    [
+      "E150c",
+      "Ammonia Caramel",
+      "Colour",
+      "Brown and black colouring; Derived from sugar beet or cane",
+      "Yes"
+    ],
+    [
+      "E150d",
+      "Sulphite Ammonia Caramel",
+      "Colour",
+      "Brown and black colouring; Derived from sugar beet or cane",
+      "Yes"
+    ],
+    [
+      "E151",
+      "Black PN/Brilliant Black BN",
+      "Colour",
+      "Brown and black colouring; Synthetic coal tar",
+      "Yes"
+    ],
+    [
+      "1516",
+      "Glycerol monoacetate",
+      "Flavour",
+      "Produced from acetic acid and glycerol",
+      "Yes"
+    ],
+    [
+      "1517",
+      "Glycerol diacetate",
+      "Flavour",
+      "Produced from acetic acid and glycerol",
+      "Yes"
+    ],
+    [
+      "E1518",
+      "Glycerol triacetate",
+      "Flavour",
+      "Produced from acetic acid and glycerol",
+      "Yes"
+    ],
+    [
+      "1520",
+      "Proylene glycol",
+      "Flavour",
+      "Produced from proplyene and carbonate",
+      "Yes"
+    ],
+    [
+      "1525",
+      "Hydroxy ethyl cellulose",
+      "Flavour",
+      "Produced from ethanol and cellulose",
+      "Yes"
+    ],
+    [
+      "E160b",
+      "Annatto, Bixin, Norbixin",
+      "Colour",
+      "Orange/yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E160c",
+      "Capsanthin/Capsorbin (Paprika Abstract)",
+      "Colour",
+      "Orange/yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E160d",
+      "Lycopene",
+      "Colour",
+      "Red colouring; Banned in Australia",
+      "Yes"
+    ],
+    [
+      "E160e",
+      "Beta-apo-8-carotenal",
+      "Colour",
+      "Orange/red synthetic colour",
+      "Yes"
+    ],
+    [
+      "E160f",
+      "Ethyl ester of Beta-apo-8-cartonoic acid",
+      "Colour",
+      "Orange/yellow synthetic colour",
+      "Yes"
+    ],
+    [
+      "E161a",
+      "Flavxanthin",
+      "Colour",
+      "Yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E161b",
+      "Lutein",
+      "Colour",
+      "Yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E161c",
+      "Cryptoxanthin",
+      "Colour",
+      "Yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E161d",
+      "Rubixanthin",
+      "Colour",
+      "Yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E161e",
+      "Violaxanthin",
+      "Colour",
+      "Yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E161f",
+      "Rhodoxanthin",
+      "Colour",
+      "Yellow colouring; Derived from plant",
+      "Yes"
+    ],
+    [
+      "E162",
+      "Beetroot Red/Betanin",
+      "Colour",
+      "Purple/red colouring from beetroot",
+      "Yes"
+    ],
+    [
+      "E163",
+      "Anthocyanins",
+      "Colour",
+      "Plant colours derived from plants such as grape skins and red cabbage",
+      "Yes"
+    ],
+    [
+      "E170",
+      "Calcium Carbonate (Chalk)",
+      "Colour",
+      "Naturally occurring white mineral",
+      "Yes"
+    ],
+    [
+      "E171",
+      "Titanium Dioxide",
+      "Colour",
+      "Naturally occurring white mineral",
+      "Yes"
+    ],
+    [
+      "E172",
+      "Iron Oxides and Hydroxides",
+      "Colour",
+      "Naturally occurring metal",
+      "Yes"
+    ],
+    [
+      "E173",
+      "Aluminium",
+      "Colour",
+      "Naturally occuring metal",
+      "Yes"
+    ],
+    [
+      "E174",
+      "Silver",
+      "Colour",
+      "Naturally occuring metal",
+      "Yes"
+    ],
+    [
+      "E175",
+      "Gold",
+      "Colour",
+      "Naturally occuring metal",
+      "Yes"
+    ],
+    [
+      "E180",
+      "Pigment Rubin/Lithol Rubin BK",
+      "Colour",
+      "Red colouring; Synthetic dye",
+      "Yes"
+    ],
+    [
+      "E200",
+      "Sorbic acid",
+      "Preservative",
+      "Naturally occurs in fruit",
+      "Yes"
+    ],
+    [
+      "E201",
+      "Sodium sorbate/sorbic acid",
+      "Preservative",
+      "Sodium salt of sorbic acid which occurs naturally in fruit",
+      "Yes"
+    ],
+    [
+      "E202",
+      "Potassium sorbate",
+      "Preservative",
+      "Potassium salt of sorbic acid which occurs naturally in food",
+      "Yes"
+    ],
+    [
+      "E203",
+      "Calcium sorbate",
+      "Preservative",
+      "Calcium salt of sorbic acid which occurs naturally in food",
+      "Yes"
+    ],
+    [
+      "E210",
+      "Benzoic acid",
+      "Preservative",
+      "Commonly found in fruits and trees",
+      "Yes"
+    ],
+    [
+      "E211",
+      "Sodium benzoate",
+      "Preservative",
+      "Commonly found in fruits",
+      "Yes"
+    ],
+    [
+      "E212",
+      "Potassium benzoate",
+      "Preservative",
+      "Commonly found in fruits",
+      "Yes"
+    ],
+    [
+      "E213",
+      "Calcium benzoate",
+      "Preservative",
+      "Commonly found in fruits. Calcium salt of benzoic acid.",
+      "Yes"
+    ],
+    [
+      "E214",
+      "Ethyl 4-hydroxybenzoate",
+      "Preservative",
+      "Commonly found in fruits.  Derivative of benzoic acid.",
+      "Yes"
+    ],
+    [
+      "E215",
+      "Sodium para-hydroxybenzoate",
+      "Preservative",
+      "Sodium salt of E214.  Banned.",
+      "Yes"
+    ],
+    [
+      "E216",
+      "Propylparaben/propyl para-hydroxybenzoate",
+      "Preservative",
+      "Made from benzoic acid.  Commonly found in fruits.",
+      "Yes"
+    ],
+    [
+      "E217",
+      "Sodium propyl para-hydroxybenzoate",
+      "Preservative",
+      "Sodium salt of E216.  Banned.",
+      "Yes"
+    ],
+    [
+      "E218",
+      "Methylparaben/methyl 4-hydroxybenzoate",
+      "Preservative",
+      "Made from benzoic acid",
+      "Yes"
+    ],
+    [
+      "E219",
+      "Sodium hmethyl p-hydroxybenzoate",
+      "Preservative",
+      "Sodium salt of E218.  Banned.",
+      "Yes"
+    ],
+    [
+      "E220",
+      "Sulphur dioxide",
+      "Preservative",
+      "Naturally occuring gas in atmosphere",
+      "Yes"
+    ],
+    [
+      "E221",
+      "Sodium sulphite",
+      "Preservative",
+      "Sodium salt of sulphurous acid",
+      "Yes"
+    ],
+    [
+      "E222",
+      "Sodium hydrogen sulphite/sodium bisulphite",
+      "Preservative",
+      "White powder that reacts with oxygen",
+      "Yes"
+    ],
+    [
+      "E223",
+      "Sodium Metabisulphite",
+      "Preservative",
+      "Sodium salt of sulphurous acid",
+      "Yes"
+    ],
+    [
+      "E224",
+      "Potassium Metabisulphite",
+      "Preservative",
+      "Potassium salt of sulphurous acid",
+      "Yes"
+    ],
+    [
+      "E225",
+      "Potassium Sulphite",
+      "Preservative",
+      "White powder that reacts with oxygen",
+      "Yes"
+    ],
+    [
+      "E226",
+      "Calcium Sulphite",
+      "Preservative",
+      "Calcium salt of sulphurous acid.  Banned.",
+      "Yes"
+    ],
+    [
+      "E227",
+      "Calcium Hydrogen Sulphite",
+      "Preservative",
+      "Calcium salt of sulphurous acid.  Banned.",
+      "Yes"
+    ],
+    [
+      "E228",
+      "Potassium bisulphite/potassium hydrogen sulphite",
+      "Preservative",
+      "Potassium salt of sulphurous acid",
+      "Yes"
+    ],
+    [
+      "E230",
+      "Biphenyl/diphenyl",
+      "Preservative",
+      "Banned.",
+      "Yes"
+    ],
+    [
+      "E231",
+      "Orthophynl phenol/2-hydroxybiphenyl",
+      "Preservative",
+      "Banned.",
+      "Yes"
+    ],
+    [
+      "E232",
+      "Sodium orthophenyl phenol/sodium biphenyl-2-yl oxide",
+      "Preservative",
+      "Sodium salt of E231",
+      "Yes"
+    ],
+    [
+      "E233",
+      "Thiabendazole/2-(thiazol-4-yl)benzimidazole",
+      "Preservative",
+      "Banned.",
+      "Yes"
+    ],
+    [
+      "E234",
+      "Nisin",
+      "Preservative",
+      "Short protein from bacteria",
+      "Yes"
+    ],
+    [
+      "E235",
+      "Natamycin/pimaracin",
+      "Preservative",
+      "Derived from bacteria",
+      "Yes"
+    ],
+    [
+      "E236",
+      "Formic Acid",
+      "Preservative",
+      "Occurs naturally in ants but commercially synthesized from chemicals.  Banned.",
+      "Yes"
+    ],
+    [
+      "E237",
+      "Sodium Formate",
+      "Preservative",
+      "Sodium salt of E236.  Banned.",
+      "Yes"
+    ],
+    [
+      "E238",
+      "Calcium Formate",
+      "Preservative",
+      "Calcium salt of E236.  Banned.",
+      "Yes"
+    ],
+    [
+      "E239",
+      "Hexamine/tetramine/hexamethylene",
+      "Preservative",
+      "Synthesized from formaldehyde and ammonia.  Banned.",
+      "Yes"
+    ],
+    [
+      "E240",
+      "Formaldehyde",
+      "Preservative",
+      "Commercially synthesized from methanol",
+      "Yes"
+    ],
+    [
+      "E242",
+      "Dimethyl dicarbonate/DMDC",
+      "Preservative",
+      "Commercially synthesized from chemicals",
+      "Yes"
+    ],
+    [
+      "E249",
+      "Potassium nitrite",
+      "Preservative",
+      "Potassium salt of nitrous acid or naturally occuring mineral",
+      "Yes"
+    ],
+    [
+      "E250",
+      "Sodium nitrite",
+      "Preservative",
+      "Sodium salt of nitrous acid or naturally occuring mineral",
+      "Yes"
+    ],
+    [
+      "E251",
+      "Sodium nitrate",
+      "Preservative",
+      "Naturally occuring mineral and common in vegetables",
+      "Yes"
+    ],
+    [
+      "E260",
+      "Acetic acid",
+      "Preservative",
+      "Naturally occuring acid",
+      "Yes"
+    ],
+    [
+      "E261",
+      "Potassium acetate",
+      "Preservative",
+      "Naturally occuring acid",
+      "Yes"
+    ],
+    [
+      "E262i",
+      "Sodium acetate and anydrous",
+      "Preservative",
+      "Sodium salt of acetic acid and common in fruits",
+      "Yes"
+    ],
+    [
+      "E262ii",
+      "Sodium diacetate",
+      "Preservative",
+      "Sodium salt of acetic acid and common in fruits",
+      "Yes"
+    ],
+    [
+      "E263",
+      "Calcium acetate",
+      "Preservative",
+      "Calcium salt of acetic acid",
+      "Yes"
+    ],
+    [
+      "E280",
+      "Propionic acid",
+      "Preservative",
+      "Natural acid produced by bacteria",
+      "Yes"
+    ],
+    [
+      "E281",
+      "Sodium propionate",
+      "Preservative",
+      "Sodium salt of propionic acid produced by bacteria",
+      "Yes"
+    ],
+    [
+      "E282",
+      "Calcium propionate",
+      "Preservative",
+      "Calcium salt of propionic acid produced by bacteria",
+      "Yes"
+    ],
+    [
+      "E283",
+      "Potassium propionate",
+      "Preservative",
+      "Potassium salt of propionic acid produced by bacteria",
+      "Yes"
+    ],
+    [
+      "E284",
+      "Boric acid",
+      "Preservative",
+      "Natural acid.  Commercially made from boron.",
+      "Yes"
+    ],
+    [
+      "E285",
+      "Sodium tetraborate/borax",
+      "Preservative",
+      "Sodium salt of boric acid.  Natural but commerically made from boron.",
+      "Yes"
+    ],
+    [
+      "Sponsored",
+      "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t(adsbygoogle = window.adsbygoogle || []).push({});\n\t\t\t\t\t\t\t"
+    ],
+    [
+      "E290",
+      "Carbin dioxide",
+      "Preservative",
+      "Naturally occuring gas",
+      "Yes"
+    ],
+    [
+      "E296",
+      "Malic acid",
+      "Preservative",
+      "Naturally present in fruits and vegetables.  Commercially chemically synthesized.",
+      "Yes"
+    ],
+    [
+      "E297",
+      "Fumaric acid",
+      "Preservative",
+      "Naturally present in fruits and vegetables.  Commercially chemically synthesized.",
+      "Yes"
+    ],
+    [
+      "E300",
+      "Ascorbic acid",
+      "Antioxidant/Acids",
+      "Naturally occurs in fruits and vegetables.  Commercially made using bacteria and glucose.",
+      "Yes"
+    ],
+    [
+      "E301",
+      "Sodium ascorbate",
+      "Antioxidant/Acids",
+      "Sodium salt of ascorbic acid",
+      "Yes"
+    ],
+    [
+      "E302",
+      "Calcium ascorbate",
+      "Antioxidant/Acids",
+      "Calcium salt of ascorbic acid",
+      "Yes"
+    ],
+    [
+      "E303",
+      "Potassium ascorbate",
+      "Antioxidant/Acids",
+      "Potassium salt of ascorbic acid",
+      "Yes"
+    ],
+    [
+      "E306",
+      "Extracts of tocopherols/tocopherols concentrate",
+      "Antioxidant/Acids",
+      "Extracts from vegetable oils",
+      "Yes"
+    ],
+    [
+      "E307",
+      "alpha-Tocopherol",
+      "Antioxidant/Acids",
+      "Extract from vegetable oils or chemically created",
+      "Yes"
+    ],
+    [
+      "E308",
+      "gamma-Tocopherol",
+      "Antioxidant/Acids",
+      "Extract from vegetable oils or chemically created",
+      "Yes"
+    ],
+    [
+      "E309d",
+      "delta-Tocopherol",
+      "Antioxidant/Acids",
+      "Extract from vegetable oils or chemically created",
+      "Yes"
+    ],
+    [
+      "E310",
+      "Propyl gallate",
+      "Antioxidant/Acids",
+      "Made from propanol and gallic acid",
+      "Yes"
+    ],
+    [
+      "E311",
+      "Octyl gallate",
+      "Antioxidant/Acids",
+      "Made from octanol and gallic acid",
+      "Yes"
+    ],
+    [
+      "E312",
+      "Dodecyl gallate",
+      "Antioxidant/Acids",
+      "Made from lauryl alcohol and gallic acid",
+      "Yes"
+    ],
+    [
+      "313",
+      "Thiodipropionic acid",
+      "Antioxidant/Acids",
+      "Synthetic antioxidant",
+      "Yes"
+    ],
+    [
+      "314",
+      "Guaiac gum",
+      "Antioxidant/Acids",
+      "Naturally occuring in a tree",
+      "Yes"
+    ],
+    [
+      "E315",
+      "Erythorbic acid",
+      "Antioxidant/Acids",
+      "Synthetically from vitamin C",
+      "Yes"
+    ],
+    [
+      "E316",
+      "Sodium erythorbate",
+      "Antioxidant/Acids",
+      "Sodium salt of erythorbic acid",
+      "Yes"
+    ],
+    [
+      "E319",
+      "Butylhydroxinon",
+      "Antioxidant/Acids",
+      "Synthetic",
+      "Yes"
+    ],
+    [
+      "E320",
+      "Butylated hydroxyanisole",
+      "Antioxidant/Acids",
+      "Synthetic",
+      "Yes"
+    ],
+    [
+      "E321",
+      "Butylated hydroxytoluene",
+      "Antioxidant/Acids",
+      "Synthetic",
+      "Yes"
+    ],
+    [
+      "E330",
+      "Citric acid",
+      "Antioxidant/Acids",
+      "Largely found in citrus fruits.  Commercially produced by fermentation.",
+      "Yes"
+    ],
+    [
+      "E331i",
+      "Sodium citrate - monosodium citrate",
+      "Antioxidant/Acids",
+      "Sodium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E331ii",
+      "Sodium citrate - disodium citrate",
+      "Antioxidant/Acids",
+      "Sodium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E331ii",
+      "Calcium citrate - dicalcium citrate",
+      "Antioxidant/Acids",
+      "Calcium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E331iii",
+      "Sodium citrate - trisodium citrate",
+      "Antioxidant/Acids",
+      "Sodium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E331iii",
+      "Calcium citrate - tricalcium citrate",
+      "Antioxidant/Acids",
+      "Calcium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E332i",
+      "Potassium citrate - monopotassium citrate",
+      "Antioxidant/Acids",
+      "Potassium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E332ii",
+      "Potassium citrate - tripotassium citrate",
+      "Antioxidant/Acids",
+      "Potassium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E333i",
+      "Calcium citrate - monocalcium citrate",
+      "Antioxidant/Acids",
+      "Calcium salts of citric acid",
+      "Yes"
+    ],
+    [
+      "E334",
+      "Tartaric acid",
+      "Antioxidant/Acids",
+      "Natural acid especially from grapes",
+      "Yes"
+    ],
+    [
+      "E400",
+      "Alginic acid",
+      "Thickener",
+      "Derived from seaweed",
+      "Yes"
+    ],
+    [
+      "E401",
+      "Sodium alginate",
+      "Thickener",
+      "Derived from seaweed",
+      "Yes"
+    ],
+    [
+      "E402",
+      "Potassium alginate",
+      "Thickener",
+      "Derived from seaweed",
+      "Yes"
+    ],
+    [
+      "E403",
+      "Ammonium alginate",
+      "Thickener",
+      "Derived from seaweed",
+      "Yes"
+    ],
+    [
+      "E404",
+      "Calcium alginate",
+      "Thickener",
+      "Derived from seaweed",
+      "Yes"
+    ],
+    [
+      "E405",
+      "Propane-1,2-diol alginate",
+      "Thickener",
+      "Propylene ester of alganic acid",
+      "Yes"
+    ],
+    [
+      "405",
+      "Propylene glycol alginate",
+      "Thickener",
+      "Derived from petroleum",
+      "Yes"
+    ],
+    [
+      "E406",
+      "Agar",
+      "Thickener",
+      "Derived from seaweed.  Substitute for gelatin.",
+      "Yes"
+    ],
+    [
+      "E407",
+      "Carrageenan",
+      "Thickener",
+      "Extracted from seaweed",
+      "Yes"
+    ],
+    [
+      "408",
+      "Furcelleran",
+      "Thickener",
+      "Extracted from seaweed",
+      "Yes"
+    ],
+    [
+      "E410",
+      "Locust bean gum/Carob gum",
+      "Thickener",
+      "Derived from a tree",
+      "Yes"
+    ],
+    [
+      "E411",
+      "Oat gum",
+      "Thickener",
+      "Produced from oats",
+      "Yes"
+    ],
+    [
+      "E412",
+      "Guar gum",
+      "Thickener",
+      "Derived from the seeds of a tree",
+      "Yes"
+    ],
+    [
+      "E413",
+      "Tragacanth",
+      "Thickener",
+      "Resin from a tree",
+      "Yes"
+    ],
+    [
+      "E414",
+      "Gum arabic",
+      "Thickener",
+      "Derived from sap of a tree",
+      "Yes"
+    ],
+    [
+      "E416",
+      "Karaya gum",
+      "Thickener",
+      "Derived from a tree",
+      "Yes"
+    ],
+    [
+      "E417",
+      "Tara gum",
+      "Thickener",
+      "From tree",
+      "Yes"
+    ],
+    [
+      "E418",
+      "Gellan gum",
+      "Thickener",
+      "From bacteria fermentation",
+      "Yes"
+    ],
+    [
+      "E420",
+      "Sorbitol",
+      "Sweetener",
+      "Derived from glucose - obtained from berries or chemically synthesized",
+      "Yes"
+    ],
+    [
+      "E421",
+      "Mannitol",
+      "Sweetener",
+      "Derived from seaweed or a tree but commercially synthesized from glucose, fructose, monosaccharides and sucrose",
+      "Yes"
+    ],
+    [
+      "E422",
+      "Glycerol",
+      "Thickener",
+      "Derived from decomposition of natural fats with alkalis",
+      "Yes"
+    ],
+    [
+      "E440",
+      "Pectin",
+      "Thickener",
+      "Occurs naturally in apple skin",
+      "Yes"
+    ],
+    [
+      "E450",
+      "Diphosphates",
+      "Emulsifier/Stabilisers",
+      "Mineral salt",
+      "Yes"
+    ],
+    [
+      "E451",
+      "Triphosphates",
+      "Emulsifier/Stabilisers",
+      "Mineral salt",
+      "Yes"
+    ],
+    [
+      "E452",
+      "Polyphosphates",
+      "Emulsifier/Stabilisers",
+      "Mineral salt",
+      "Yes"
+    ],
+    [
+      "E460",
+      "Cellulose",
+      "Thickener",
+      "From plant cell walls",
+      "Yes"
+    ],
+    [
+      "E461",
+      "Methyl cellulose",
+      "Thickener",
+      "From cellulose (plant cell walls)",
+      "Yes"
+    ],
+    [
+      "462",
+      "Ethyl cellulose",
+      "Thickener",
+      "From cellulose (plant cell walls)",
+      "Yes"
+    ],
+    [
+      "E463",
+      "Hydroxypropyl cellulose",
+      "Thickener",
+      "From cellulose (plant cell walls).  Banned in Australia.",
+      "Yes"
+    ],
+    [
+      "E464",
+      "Hydroxypropylmethyl cellulose",
+      "Thickener",
+      "From cellulose (plant cell walls)",
+      "Yes"
+    ],
+    [
+      "E465",
+      "Methylethyl cellulose",
+      "Thickener",
+      "From cellulose (plant cell walls)",
+      "Yes"
+    ],
+    [
+      "E466",
+      "Carboxymethyl cellulose",
+      "Thickener",
+      "From cellulose (plant cell walls)",
+      "Yes"
+    ],
+    [
+      "E476",
+      "Polyglycerol polyricinoleate",
+      "Emulsifier/Stabilisers",
+      "From polyglycerol and castor oil (tree origins)",
+      "Yes"
+    ],
+    [
+      "E500",
+      "Sodium carbonate",
+      "Anti-Caking Agent",
+      "From seawater or salt",
+      "Yes"
+    ],
+    [
+      "E501",
+      "Potassium carbonate",
+      "Anti-Caking Agent",
+      "From a natural mineral",
+      "Yes"
+    ],
+    [
+      "E503",
+      "Ammonium carbonate",
+      "Anti-Caking Agent",
+      "From sulphates, carbonates and natural minerals",
+      "Yes"
+    ],
+    [
+      "E504",
+      "Magnesium carbonate",
+      "Anti-Caking Agent",
+      "Natural mineral or from magnesium hydroxide",
+      "Yes"
+    ],
+    [
+      "505",
+      "Ferro carbonate",
+      "Anti-Caking Agent",
+      "Natural mineral or from magnesium hydroxide",
+      "Yes"
+    ],
+    [
+      "E507",
+      "Hydrochloric acid",
+      "Anti-Caking Agent",
+      "Natural acid",
+      "Yes"
+    ],
+    [
+      "E508",
+      "Potassium chloride",
+      "Anti-Caking Agent",
+      "Natural salt",
+      "Yes"
+    ],
+    [
+      "E509",
+      "Calcium chloride",
+      "Anti-Caking Agent",
+      "Natural salt",
+      "Yes"
+    ],
+    [
+      "510",
+      "Ammonium chloride",
+      "Anti-Caking Agent",
+      "Natural salt",
+      "Yes"
+    ],
+    [
+      "E511",
+      "Magnesium chloride",
+      "Anti-Caking Agent",
+      "Natural salt",
+      "Yes"
+    ],
+    [
+      "E512",
+      "Stannous chloride",
+      "Anti-Caking Agent",
+      "From tin and hydrochloric acid",
+      "Yes"
+    ],
+    [
+      "E513",
+      "Sulphuric acid",
+      "Anti-Caking Agent",
+      "From sulphur dioxide, oxygen and water",
+      "Yes"
+    ],
+    [
+      "E514",
+      "Sodium sulphate",
+      "Anti-Caking Agent",
+      "From salt and sulphuric acid",
+      "Yes"
+    ],
+    [
+      "E515",
+      "Potassium sulphate",
+      "Anti-Caking Agent",
+      "Natural mineral",
+      "Yes"
+    ],
+    [
+      "E516",
+      "Calcium sulphate",
+      "Anti-Caking Agent",
+      "Natural mineral",
+      "Yes"
+    ],
+    [
+      "E517",
+      "Ammonium sulphate",
+      "Anti-Caking Agent",
+      "Natural mineral",
+      "Yes"
+    ],
+    [
+      "518",
+      "Magnesium sulphate",
+      "Anti-Caking Agent",
+      "Natural mineral",
+      "Yes"
+    ],
+    [
+      "E520",
+      "Aluminium sulphate",
+      "Anti-Caking Agent",
+      "Natural mineral",
+      "Yes"
+    ],
+    [
+      "E521",
+      "Aluminium sodium sulphate",
+      "Anti-Caking Agent",
+      "Derived from natural sulphate",
+      "Yes"
+    ],
+    [
+      "E523",
+      "Aluminium ammonium sulphate",
+      "Anti-Caking Agent",
+      "Derived from natural sulphate",
+      "Yes"
+    ],
+    [
+      "E524",
+      "Sodium hydroxide",
+      "Anti-Caking Agent",
+      "Derived from natural salt",
+      "Yes"
+    ],
+    [
+      "E525",
+      "Potassium hydroxide",
+      "Anti-Caking Agent",
+      "Derived from natural salt",
+      "Yes"
+    ],
+    [
+      "E527",
+      "Ammonium hydroxide",
+      "Anti-Caking Agent",
+      "From ammonia and water",
+      "Yes"
+    ],
+    [
+      "E528",
+      "Magnesium hydroxide",
+      "Anti-Caking Agent",
+      "Derived from natural minerals",
+      "Yes"
+    ],
+    [
+      "E529",
+      "Calcium oxide",
+      "Anti-Caking Agent",
+      "Derived from chalk",
+      "Yes"
+    ],
+    [
+      "E530",
+      "Magnesium oxide",
+      "Anti-Caking Agent",
+      "Derived from natural minerals",
+      "Yes"
+    ],
+    [
+      "E535",
+      "Sodium ferrocyanide",
+      "Anti-Caking Agent",
+      "From hydrogen ferrocyanide and sodium hydroxide",
+      "Yes"
+    ],
+    [
+      "E536",
+      "Potassium ferrocyanide",
+      "Anti-Caking Agent",
+      "From hydrogen ferrocyanide and potassium hydroxide",
+      "Yes"
+    ],
+    [
+      "537",
+      "Ferrohexacyanomanganate",
+      "Anti-Caking Agent",
+      "From natural minerals",
+      "Yes"
+    ],
+    [
+      "E538",
+      "Calcium ferrocyanide",
+      "Anti-Caking Agent",
+      "From hydrogen ferrocyanide and calcium hydroxide",
+      "Yes"
+    ],
+    [
+      "539",
+      "Sodium thiosulphate",
+      "Anti-Caking Agent",
+      "Chemical combination of multiple chemicals",
+      "Yes"
+    ],
+    [
+      "E540",
+      "Dicalcium prophosphate",
+      "Anti-Caking Agent",
+      "Banned.",
+      "Yes"
+    ],
+    [
+      "E541",
+      "Sodium aluminium phosphate",
+      "Anti-Caking Agent",
+      "",
+      "Yes"
+    ],
+    [
+      "543",
+      "Calcium phosphates",
+      "Emulsifier/Stabilisers",
+      "Derived from natural mineral",
+      "Yes"
+    ],
+    [
+      "544",
+      "Ammonium phosphates",
+      "Emulsifier/Stabilisers",
+      "Derived from natural",
+      "Yes"
+    ],
+    [
+      "545",
+      "Magnesium pyrophosphates",
+      "Emulsifier/Stabilisers",
+      "Derived from natural salts",
+      "Yes"
+    ],
+    [
+      "546",
+      "Magnesium phosphates",
+      "Emulsifier/Stabilisers",
+      "Derived from natural salts",
+      "Yes"
+    ],
+    [
+      "550",
+      "Sodium silicates",
+      "Anti-Caking Agent",
+      "Derived from quartz and sand",
+      "Yes"
+    ],
+    [
+      "E551",
+      "Silicium dioxide",
+      "Anti-Caking Agent",
+      "From sand",
+      "Yes"
+    ],
+    [
+      "E552",
+      "Calcium silicate",
+      "Anti-Caking Agent",
+      "From chalk and sand",
+      "Yes"
+    ],
+    [
+      "E553",
+      "Magnesium silicate",
+      "Anti-Caking Agent",
+      "From sulphates or directly from minerals",
+      "Yes"
+    ],
+    [
+      "E554",
+      "Aluminium sodium silicate",
+      "Anti-Caking Agent",
+      "From natural minerals",
+      "Yes"
+    ],
+    [
+      "E555",
+      "Aluminium potassium silicate",
+      "Anti-Caking Agent",
+      "From natural minerals",
+      "Yes"
+    ],
+    [
+      "E556",
+      "Aluminium calcium silicate",
+      "Anti-Caking Agent",
+      "From natural minerals",
+      "Yes"
+    ],
+    [
+      "557",
+      "Zinc silicate",
+      "Anti-Caking Agent",
+      "From natural minerals",
+      "Yes"
+    ],
+    [
+      "E558",
+      "Bentonite",
+      "Anti-Caking Agent",
+      "From volcanic clay",
+      "Yes"
+    ],
+    [
+      "E559",
+      "Kaolin",
+      "Anti-Caking Agent",
+      "From aluminous minerals",
+      "Yes"
+    ],
+    [
+      "E574",
+      "Gluconic acid",
+      "Anti-Caking Agent",
+      "Chemically produced or from sugar",
+      "Yes"
+    ],
+    [
+      "E575",
+      "D-glucono-1, 5-lactone",
+      "Anti-Caking Agent",
+      "Chemically produced or from sugar",
+      "Yes"
+    ],
+    [
+      "E576",
+      "Sodium gluconate",
+      "Anti-Caking Agent",
+      "Sodium salt of gluconic acid",
+      "Yes"
+    ],
+    [
+      "E577",
+      "Potassium gluconate",
+      "Anti-Caking Agent",
+      "Potassium salt of gluconic acid",
+      "Yes"
+    ],
+    [
+      "E578",
+      "Calcium gluconate",
+      "Anti-Caking Agent",
+      "Calcium salt of gluconic acid",
+      "Yes"
+    ],
+    [
+      "E579",
+      "Ferro gluconate",
+      "Anti-Caking Agent",
+      "Iron salt of gluconic acid",
+      "Yes"
+    ],
+    [
+      "E585",
+      "Ferro lactate",
+      "Anti-Caking Agent",
+      "Iron salt of lactic acid",
+      "Yes"
+    ],
+    [
+      "E620",
+      "Glutamic acid",
+      "Flavour",
+      "Natural amino acid",
+      "Yes"
+    ],
+    [
+      "E622",
+      "Mono potassium glutamate",
+      "Flavour",
+      "Potassium salt from glutamic acid",
+      "Yes"
+    ],
+    [
+      "E623",
+      "Calcium glutamate",
+      "Flavour",
+      "Calcium salt from glutamic acid",
+      "Yes"
+    ],
+    [
+      "E624",
+      "Ammonium glutamate",
+      "Flavour",
+      "Ammonium salt from glutamic acid",
+      "Yes"
+    ],
+    [
+      "E625",
+      "Magnesium glutamate",
+      "Flavour",
+      "Magnesium salt from glutamic acid",
+      "Yes"
+    ],
+    [
+      "E710",
+      "Spiramycins",
+      "Antibiotics",
+      "",
+      "Yes"
+    ],
+    [
+      "E713",
+      "Tylosin",
+      "Antibiotics",
+      "",
+      "Yes"
+    ]
+  ]
+  
