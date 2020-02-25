@@ -10,6 +10,6 @@ export enum PRODUCT_LIST_ACTION_TYPES {
 export const SelectProduct = (product: Product) => {
   return {
     type: PRODUCT_LIST_ACTION_TYPES.SELECT_PRODUCT,
-    Product: product,
+    product,
   };
 };

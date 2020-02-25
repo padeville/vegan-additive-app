@@ -33,10 +33,10 @@ export const ProductList = (
         product: [...state.products, {ProductData}],
       };
     case PRODUCT_LIST_ACTION_TYPES.SELECT_PRODUCT:
-      const {Product} = <SelectProductAction>action;
+      const {product} = <SelectProductAction>action;
       return {
         ...state,
-        selectedProduct: Product,
+        selectedProduct: product,
       };
     // define rest of actions here
     default:

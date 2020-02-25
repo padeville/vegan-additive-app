@@ -1,20 +1,36 @@
 import React, {Component, Dispatch} from 'react';
 import {connect} from 'react-redux';
-import {View, FlatList, Text} from 'react-native';
+import {View, FlatList, Text, StyleSheet} from 'react-native';
 import {IRecipeProps, Product} from './products.interface';
 import {ProductElement} from './product';
 import {ProductListAction} from '../../states/types';
 import {SelectProduct} from '../../states/product-list/action';
 import {IAppState} from '../../states/store';
 import ModalView from './modal';
+import {SearchBar} from 'react-native-elements';
 
 export class listProducts extends Component<IRecipeProps> {
+  state = {
+    search: '',
+  };
+
+  updateSearch = (search: string) => {
+    this.setState({search});
+  };
   render() {
+    const {search} = this.state;
+
     return (
-      <View>
+      <View style={styles.list}>
         <View>
-          <Text>Bienvenu dans la vegan App cherchez ce que vous voulez</Text>
+          <Text>Salut salut salut</Text>
         </View>
+        <SearchBar
+          placeholder="Type Here..."
+          onChangeText={this.updateSearch}
+          value={search}
+          lightTheme={true}
+        />
         <ModalView
           product={this.props.selectedProduct}
           setModalVisible={this.props.setlectProduct}
@@ -46,3 +62,9 @@ const mapDispatchToProps = (dispatch: Dispatch<ProductListAction>) => ({
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(listProducts);
+
+const styles = StyleSheet.create({
+  list: {
+    padding: 10,
+  },
+});

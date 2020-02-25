@@ -7,7 +7,7 @@ export type AddProductAction = {
 
 export type SelectProductAction = {
   type: string;
-  Product: Product;
+  product: Product;
 };
 export type UpdateProductAction = {
   type: string;
