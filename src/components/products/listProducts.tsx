@@ -4,31 +4,27 @@ import {View, FlatList, Text, StyleSheet} from 'react-native';
 import {IRecipeProps, Product} from './products.interface';
 import {ProductElement} from './product';
 import {ProductListAction} from '../../states/types';
-import {SelectProduct} from '../../states/product-list/action';
+import {SelectProduct, FilterProduct} from '../../states/product-list/action';
 import {IAppState} from '../../states/store';
 import ModalView from './modal';
 import {SearchBar} from 'react-native-elements';
 
 export class listProducts extends Component<IRecipeProps> {
-  state = {
-    search: '',
-  };
-
-  updateSearch = (search: string) => {
-    this.setState({search});
-  };
   render() {
-    const {search} = this.state;
-
     return (
       <View style={styles.list}>
         <View>
-          <Text>Salut salut salut</Text>
+          <Text style={styles.headerText}>
+            <Text>ADDITIFS ALIMENTAIRES{'\n'}</Text>
+            <Text style={styles.title}>
+              Toutes Les informations sur les additifs alimentaires
+            </Text>
+          </Text>
         </View>
         <SearchBar
           placeholder="Type Here..."
-          onChangeText={this.updateSearch}
-          value={search}
+          onChangeText={this.props.filterProducts}
+          value={this.props.filter}
           lightTheme={true}
         />
         <ModalView
@@ -53,18 +49,31 @@ export class listProducts extends Component<IRecipeProps> {
 const mapStateToProps = (state: IAppState) => ({
   products: state.ProductList.products,
   selectedProduct: state.ProductList.selectedProduct,
+  filter: state.ProductList.filter,
 });
 
 const mapDispatchToProps = (dispatch: Dispatch<ProductListAction>) => ({
   setlectProduct: (product: Product) => {
     dispatch(SelectProduct(product));
   },
+  filterProducts: (filter: string) => {
+    dispatch(FilterProduct(filter));
+  },
 });
 
-export default connect(mapStateToProps, mapDispatchToProps)(listProducts);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps,
+)(listProducts);
 
 const styles = StyleSheet.create({
   list: {
     padding: 10,
+  },
+  headerText: {
+    textAlign: 'center',
+  },
+  title: {
+    fontSize: 25,
   },
 });

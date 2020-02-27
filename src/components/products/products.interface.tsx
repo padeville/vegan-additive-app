@@ -1,7 +1,9 @@
 export interface IRecipeProps {
   products: Product[];
   selectedProduct: Product | null;
+  filter: string;
   setlectProduct(product: Product | null): void;
+  filterProducts(filter: string): void;
 }
 
 export interface IRecipeState {}
