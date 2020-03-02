@@ -1,21 +1,21 @@
 import React from 'react';
-import {StyleSheet, Text, View} from 'react-native';
-import Index from './src';
+import 'react-native-gesture-handler';
+import {NavigationContainer} from '@react-navigation/native';
+import {createStackNavigator} from '@react-navigation/stack';
 import {Provider} from 'react-redux';
 import store from './src/states/store';
+import Index from './src';
+
+const Stack = createStackNavigator();
 
 export default function App() {
   return (
-    <Provider store={store}>
-      <View style={styles.container}>
-        <Index />
-      </View>
-    </Provider>
+    <NavigationContainer>
+      <Provider store={store}>
+        <Stack.Navigator>
+          <Stack.Screen name="Home" component={Index} />
+        </Stack.Navigator>
+      </Provider>
+    </NavigationContainer>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
-});

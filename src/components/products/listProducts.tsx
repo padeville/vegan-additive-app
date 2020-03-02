@@ -69,6 +69,7 @@ export default connect(
 const styles = StyleSheet.create({
   list: {
     padding: 10,
+    flex: 1,
   },
   headerText: {
     textAlign: 'center',
